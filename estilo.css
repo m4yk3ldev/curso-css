@@ -1,36 +1,36 @@
 * {
-    font-family: sans-serif;
-    font-weight: 100;
-    font-size: 20px;
+  font-family: sans-serif;
+  font-weight: 100;
+  font-size: 20px;
 }
 
-.nav__responsive-ul{
-    display: none;
+.nav__responsive-ul {
+  display: none;
 }
 
-.nav{
-    background-color: darkslateblue;
+.nav {
+  background-color: darkslateblue;
 }
 
 .nav__li {
-    display: inline-block;
-    padding: 12px;
-    color: #fff;
+  display: inline-block;
+  padding: 12px;
+  color: #fff;
 }
 
 .nav__li a {
-    color: #fff;
-    text-decoration: none;
+  color: #fff;
+  text-decoration: none;
 }
 
 .nav__li:hover > a {
-    color: #bbb;
+  color: #bbb;
 }
 .nav__li:hover {
-    color: #bbb;
+  color: #bbb;
 }
 .nav__li i {
-    box-sizing: border-box; 
-    text-align: right;
-    margin-right: 5px;
+  box-sizing: border-box;
+  text-align: right;
+  margin-right: 5px;
 }
