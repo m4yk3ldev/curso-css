@@ -26,9 +26,11 @@
 .nav__li:hover > a {
   color: #bbb;
 }
+
 .nav__li:hover {
   color: #bbb;
 }
+
 .nav__li i {
   box-sizing: border-box;
   text-align: right;
